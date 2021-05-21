@@ -1,0 +1,1495 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TestData>
+  <Categories>
+    <Category>
+      <Text>AMERICAN GOVERNMENT</Text>
+      <Sections>
+        <Section>
+          <Text>Principles of American Democracy</Text>
+          <Questions>
+            <Question>
+              <Text>What is the supreme law of the land?</Text>
+              <Answers>
+                <Answer>
+                  <Text>the Constitution</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>What does the Constitution do?</Text>
+              <Answers>
+                <Answer>
+                  <Text>sets up the government</Text>
+                </Answer>
+                <Answer>
+                  <Text>defines the government</Text>
+                </Answer>
+                <Answer>
+                  <Text>protects basic rights of Americans</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>The idea of self-government is in the first three words of the Constitution. What are these words?</Text>
+              <Answers>
+                <Answer>
+                  <Text>We the People</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>What is an amendment?</Text>
+              <Answers>
+                <Answer>
+                  <Text>a change (to the Constitution)</Text>
+                </Answer>
+                <Answer>
+                  <Text>an addition (to the Constitution)</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>What do we call the first ten amendments to the Constitution?</Text>
+              <Answers>
+                <Answer>
+                  <Text>the Bill of Rights</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>What is one right or freedom from the First Amendment?</Text>
+              <Answers>
+                <Answer>
+                  <Text>speech</Text>
+                </Answer>
+                <Answer>
+                  <Text>religion</Text>
+                </Answer>
+                <Answer>
+                  <Text>assembly</Text>
+                </Answer>
+                <Answer>
+                  <Text>press</Text>
+                </Answer>
+                <Answer>
+                  <Text>petition the government</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>How many amendments does the Constitution have?</Text>
+              <Answers>
+                <Answer>
+                  <Text>twenty-seven (27)</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>What did the Declaration of Independence do?</Text>
+              <Answers>
+                <Answer>
+                  <Text>announced our independence (from Great Britain)</Text>
+                </Answer>
+                <Answer>
+                  <Text>declared our independence (from Great Britain)</Text>
+                </Answer>
+                <Answer>
+                  <Text>said that the United States is free (from Great Britain)</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>What are two rights in the Declaration of Independence?</Text>
+              <Answers>
+                <Answer>
+                  <Text>life</Text>
+                </Answer>
+                <Answer>
+                  <Text>liberty</Text>
+                </Answer>
+                <Answer>
+                  <Text>pursuit of happiness</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>What is freedom of religion?</Text>
+              <Answers>
+                <Answer>
+                  <Text>You can practice any religion, or not practice a religion.</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>What is the economic system in the United States?</Text>
+              <Answers>
+                <Answer>
+                  <Text>capitalist economy</Text>
+                </Answer>
+                <Answer>
+                  <Text>market economy</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>What is the “rule of law”?</Text>
+              <Answers>
+                <Answer>
+                  <Text>Everyone must follow the law.</Text>
+                </Answer>
+                <Answer>
+                  <Text>Leaders must obey the law.</Text>
+                </Answer>
+                <Answer>
+                  <Text>Government must obey the law</Text>
+                </Answer>
+                <Answer>
+                  <Text>No one is above the law.</Text>
+                </Answer>
+              </Answers>
+            </Question>
+          </Questions>
+        </Section>
+        <Section>
+          <Text>System of Government</Text>
+          <Questions>
+            <Question>
+              <Text>Name one branch or part of the government.</Text>
+              <Answers>
+                <Answer>
+                  <Text>Congress</Text>
+                </Answer>
+                <Answer>
+                  <Text>legislative</Text>
+                </Answer>
+                <Answer>
+                  <Text>President</Text>
+                </Answer>
+                <Answer>
+                  <Text>executive</Text>
+                </Answer>
+                <Answer>
+                  <Text>the courts</Text>
+                </Answer>
+                <Answer>
+                  <Text>judicial</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>What stops one branch of government from becoming too powerful?</Text>
+              <Answers>
+                <Answer>
+                  <Text>checks and balances</Text>
+                </Answer>
+                <Answer>
+                  <Text>separation of powers</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>Who is in charge of the executive branch?</Text>
+              <Answers>
+                <Answer>
+                  <Text>the President</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>Who makes federal laws?</Text>
+              <Answers>
+                <Answer>
+                  <Text>Congress</Text>
+                </Answer>
+                <Answer>
+                  <Text>Senate and House (of Representatives)</Text>
+                </Answer>
+                <Answer>
+                  <Text>(U.S. or national) legislature</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>What are the two parts of the U.S. Congress?</Text>
+              <Answers>
+                <Answer>
+                  <Text>the Senate and House (of Representatives)</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>How many U.S. Senators are there?</Text>
+              <Answers>
+                <Answer>
+                  <Text>one hundred (100)</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>We elect a U.S. Senator for how many years?</Text>
+              <Answers>
+                <Answer>
+                  <Text>six (6)</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>Who is one of your state’s U.S. Senators now?</Text>
+              <Answers>
+                <Answer>
+                  <Text>Rubio, Marco</Text>
+                </Answer>
+                <Answer>
+                  <Text>Scott, Rick</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>The House of Representatives has how many voting members?</Text>
+              <Answers>
+                <Answer>
+                  <Text>four hundred thirty-five (435)</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>We elect a U.S. Representative for how many years?</Text>
+              <Answers>
+                <Answer>
+                  <Text>two (2)</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>Name your U.S. Representative.</Text>
+              <Answers>
+                <Answer>
+                  <Text>Gaetz, Matt</Text>
+                </Answer>
+                <Answer>
+                  <Text>Dunn, Neal</Text>
+                </Answer>
+                <Answer>
+                  <Text>Cammack, Kat</Text>
+                </Answer>
+                <Answer>
+                  <Text>Rutherford, John</Text>
+                </Answer>
+                <Answer>
+                  <Text>Lawson, Al</Text>
+                </Answer>
+                <Answer>
+                  <Text>Waltz, Michael</Text>
+                </Answer>
+                <Answer>
+                  <Text>Murphy, Stephanie</Text>
+                </Answer>
+                <Answer>
+                  <Text>Posey, Bill</Text>
+                </Answer>
+                <Answer>
+                  <Text>Soto, Darren</Text>
+                </Answer>
+                <Answer>
+                  <Text>Demings, Val</Text>
+                </Answer>
+                <Answer>
+                  <Text>Webster, Daniel</Text>
+                </Answer>
+                <Answer>
+                  <Text>Bilirakis, Gus M.</Text>
+                </Answer>
+                <Answer>
+                  <Text>Crist, Charlie</Text>
+                </Answer>
+                <Answer>
+                  <Text>Castor, Kathy</Text>
+                </Answer>
+                <Answer>
+                  <Text>Franklin, C. Scott</Text>
+                </Answer>
+                <Answer>
+                  <Text>Buchanan, Vern</Text>
+                </Answer>
+                <Answer>
+                  <Text>Steube, W. Gregory</Text>
+                </Answer>
+                <Answer>
+                  <Text>Mast, Brian</Text>
+                </Answer>
+                <Answer>
+                  <Text>Donalds, Byron</Text>
+                </Answer>
+                <Answer>
+                  <Text>Hastings, Alcee L.</Text>
+                </Answer>
+                <Answer>
+                  <Text>Frankel, Lois</Text>
+                </Answer>
+                <Answer>
+                  <Text>Deutch, Ted</Text>
+                </Answer>
+                <Answer>
+                  <Text>Wasserman Schultz, Debbie</Text>
+                </Answer>
+                <Answer>
+                  <Text>Wilson, Frederica</Text>
+                </Answer>
+                <Answer>
+                  <Text>Diaz-Balart, Mario</Text>
+                </Answer>
+                <Answer>
+                  <Text>Gimenez, Carlos A.</Text>
+                </Answer>
+                <Answer>
+                  <Text>Salazar, Maria Elvira</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>Who does a U.S. Senator represent?</Text>
+              <Answers>
+                <Answer>
+                  <Text>all people of the state</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>Why do some states have more Representatives than other states?</Text>
+              <Answers>
+                <Answer>
+                  <Text>(because of) the state’s population</Text>
+                </Answer>
+                <Answer>
+                  <Text>(because) they have more people</Text>
+                </Answer>
+                <Answer>
+                  <Text>(because) some states have more people</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>We elect a President for how many years?</Text>
+              <Answers>
+                <Answer>
+                  <Text>four (4)</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>In what month do we vote for President?</Text>
+              <Answers>
+                <Answer>
+                  <Text>November</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>What is the name of the President of the United States now?</Text>
+              <Answers>
+                <Answer>
+                  <Text>Joseph R. Biden, Jr.</Text>
+                </Answer>
+                <Answer>
+                  <Text>Joe Biden</Text>
+                </Answer>
+                <Answer>
+                  <Text>Biden</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>What is the name of the Vice President of the United States now?</Text>
+              <Answers>
+                <Answer>
+                  <Text>Kamala D. Harris</Text>
+                </Answer>
+                <Answer>
+                  <Text>Kamala Harris</Text>
+                </Answer>
+                <Answer>
+                  <Text>Harris</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>If the President can no longer serve, who becomes President?</Text>
+              <Answers>
+                <Answer>
+                  <Text>the Vice President</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>If both the President and the Vice President can no longer serve, who becomes President?</Text>
+              <Answers>
+                <Answer>
+                  <Text>the Speaker of the House</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>Who is the Commander in Chief of the military?</Text>
+              <Answers>
+                <Answer>
+                  <Text>the President</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>Who signs bills to become laws?</Text>
+              <Answers>
+                <Answer>
+                  <Text>the President</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>Who vetoes bills?</Text>
+              <Answers>
+                <Answer>
+                  <Text>the President</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>What does the President’s Cabinet do?</Text>
+              <Answers>
+                <Answer>
+                  <Text>advises the President</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>What are two Cabinet-level positions?</Text>
+              <Answers>
+                <Answer>
+                  <Text>Secretary of Agriculture</Text>
+                </Answer>
+                <Answer>
+                  <Text>Secretary of Commerce</Text>
+                </Answer>
+                <Answer>
+                  <Text>Secretary of Defense</Text>
+                </Answer>
+                <Answer>
+                  <Text>Secretary of Education</Text>
+                </Answer>
+                <Answer>
+                  <Text>Secretary of Energy</Text>
+                </Answer>
+                <Answer>
+                  <Text>Secretary of Health and Human Services</Text>
+                </Answer>
+                <Answer>
+                  <Text>Secretary of Homeland Security</Text>
+                </Answer>
+                <Answer>
+                  <Text>Secretary of Housing and Urban Development</Text>
+                </Answer>
+                <Answer>
+                  <Text>Secretary of the Interior</Text>
+                </Answer>
+                <Answer>
+                  <Text>Secretary of Labor</Text>
+                </Answer>
+                <Answer>
+                  <Text>Secretary of State</Text>
+                </Answer>
+                <Answer>
+                  <Text>Secretary of Transportation</Text>
+                </Answer>
+                <Answer>
+                  <Text>Secretary of the Treasury</Text>
+                </Answer>
+                <Answer>
+                  <Text>Secretary of Veterans Affairs</Text>
+                </Answer>
+                <Answer>
+                  <Text>Attorney General</Text>
+                </Answer>
+                <Answer>
+                  <Text>Vice President</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>What does the judicial branch do?</Text>
+              <Answers>
+                <Answer>
+                  <Text>reviews laws</Text>
+                </Answer>
+                <Answer>
+                  <Text>explains laws</Text>
+                </Answer>
+                <Answer>
+                  <Text>resolves disputes (disagreements)</Text>
+                </Answer>
+                <Answer>
+                  <Text>decides if a law goes against the Constitution</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>What is the highest court in the United States?</Text>
+              <Answers>
+                <Answer>
+                  <Text>the Supreme Court</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>How many justices are on the Supreme Court?</Text>
+              <Answers>
+                <Answer>
+                  <Text>nine (9)</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>Who is the Chief Justice of the United States now?</Text>
+              <Answers>
+                <Answer>
+                  <Text>John Roberts</Text>
+                </Answer>
+                <Answer>
+                  <Text>John G. Roberts, Jr.</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>Under our Constitution, some powers belong to the federal government. What is one power of the federal government?</Text>
+              <Answers>
+                <Answer>
+                  <Text>to print money</Text>
+                </Answer>
+                <Answer>
+                  <Text>to declare war</Text>
+                </Answer>
+                <Answer>
+                  <Text>to create an army</Text>
+                </Answer>
+                <Answer>
+                  <Text>to make treaties</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>Under our Constitution, some powers belong to the states. What is one power of the states?</Text>
+              <Answers>
+                <Answer>
+                  <Text>provide schooling and education</Text>
+                </Answer>
+                <Answer>
+                  <Text>provide protection (police)</Text>
+                </Answer>
+                <Answer>
+                  <Text>provide safety (fire departments)</Text>
+                </Answer>
+                <Answer>
+                  <Text>give a driver’s license</Text>
+                </Answer>
+                <Answer>
+                  <Text>approve zoning and land use</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>Who is the Governor of your state now?</Text>
+              <Answers>
+                <Answer>
+                  <Text>Ron DeSantis</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>What is the capital of your state?</Text>
+              <Answers>
+                <Answer>
+                  <Text>Tallahassee</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>What are the two major political parties in the United States?</Text>
+              <Answers>
+                <Answer>
+                  <Text>Democratic and Republican</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>What is the political party of the President now?</Text>
+              <Answers>
+                <Answer>
+                  <Text>Democratic (Party)</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>What is the name of the Speaker of the House of Representatives now?</Text>
+              <Answers>
+                <Answer>
+                  <Text>Nancy Pelosi</Text>
+                </Answer>
+                <Answer>
+                  <Text>Pelosi</Text>
+                </Answer>
+              </Answers>
+            </Question>
+          </Questions>
+        </Section>
+        <Section>
+          <Text>Rights and Responsibilities</Text>
+          <Questions>
+            <Question>
+              <Text>There are four amendments to the Constitution about who can vote. Describe one of them.</Text>
+              <Answers>
+                <Answer>
+                  <Text>Citizens eighteen (18) and older (can vote).</Text>
+                </Answer>
+                <Answer>
+                  <Text>You don’t have to pay (a poll tax) to vote.</Text>
+                </Answer>
+                <Answer>
+                  <Text>Any citizen can vote. (Women and men can vote.)</Text>
+                </Answer>
+                <Answer>
+                  <Text>A male citizen of any race (can vote).</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>What is one responsibility that is only for United States citizens?</Text>
+              <Answers>
+                <Answer>
+                  <Text>serve on a jury</Text>
+                </Answer>
+                <Answer>
+                  <Text>vote in a federal election</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>Name one right only for United States citizens.</Text>
+              <Answers>
+                <Answer>
+                  <Text>vote in a federal election</Text>
+                </Answer>
+                <Answer>
+                  <Text>run for federal office</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>What are two rights of everyone living in the United States?</Text>
+              <Answers>
+                <Answer>
+                  <Text>freedom of expression</Text>
+                </Answer>
+                <Answer>
+                  <Text>freedom of speech</Text>
+                </Answer>
+                <Answer>
+                  <Text>freedom of assembly</Text>
+                </Answer>
+                <Answer>
+                  <Text>freedom to petition the government</Text>
+                </Answer>
+                <Answer>
+                  <Text>freedom of religion</Text>
+                </Answer>
+                <Answer>
+                  <Text>the right to bear arms</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>What do we show loyalty to when we say the Pledge of Allegiance?</Text>
+              <Answers>
+                <Answer>
+                  <Text>the United States</Text>
+                </Answer>
+                <Answer>
+                  <Text>the flag</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>What is one promise you make when you become a United States citizen?</Text>
+              <Answers>
+                <Answer>
+                  <Text>give up loyalty to other countries</Text>
+                </Answer>
+                <Answer>
+                  <Text>defend the Constitution and laws of the United States</Text>
+                </Answer>
+                <Answer>
+                  <Text>obey the laws of the United States</Text>
+                </Answer>
+                <Answer>
+                  <Text>serve in the U.S. military (if needed)</Text>
+                </Answer>
+                <Answer>
+                  <Text>serve (do important work for) the nation (if needed)</Text>
+                </Answer>
+                <Answer>
+                  <Text>be loyal to the United States</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>How old do citizens have to be to vote for President?</Text>
+              <Answers>
+                <Answer>
+                  <Text>eighteen (18) and older</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>What are two ways that Americans can participate in their democracy?</Text>
+              <Answers>
+                <Answer>
+                  <Text>vote</Text>
+                </Answer>
+                <Answer>
+                  <Text>join a political party</Text>
+                </Answer>
+                <Answer>
+                  <Text>help with a campaign</Text>
+                </Answer>
+                <Answer>
+                  <Text>join a civic group</Text>
+                </Answer>
+                <Answer>
+                  <Text>join a community group</Text>
+                </Answer>
+                <Answer>
+                  <Text>give an elected official your opinion on an issue</Text>
+                </Answer>
+                <Answer>
+                  <Text>call Senators and Representatives</Text>
+                </Answer>
+                <Answer>
+                  <Text>publicly support or oppose an issue or policy</Text>
+                </Answer>
+                <Answer>
+                  <Text>run for office</Text>
+                </Answer>
+                <Answer>
+                  <Text>write to a newspaper</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>When is the last day you can send in federal income tax forms?</Text>
+              <Answers>
+                <Answer>
+                  <Text>April 15</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>When must all men register for the Selective Service?</Text>
+              <Answers>
+                <Answer>
+                  <Text>at age eighteen (18)</Text>
+                </Answer>
+                <Answer>
+                  <Text>between eighteen (18) and twenty-six (26)</Text>
+                </Answer>
+              </Answers>
+            </Question>
+          </Questions>
+        </Section>
+      </Sections>
+    </Category>
+    <Category>
+      <Text>AMERICAN HISTORY</Text>
+      <Sections>
+        <Section>
+          <Text>Colonial Period and Independence</Text>
+          <Questions>
+            <Question>
+              <Text>What is one reason colonists came to America?</Text>
+              <Answers>
+                <Answer>
+                  <Text>freedom</Text>
+                </Answer>
+                <Answer>
+                  <Text>political liberty</Text>
+                </Answer>
+                <Answer>
+                  <Text>religious freedom</Text>
+                </Answer>
+                <Answer>
+                  <Text>economic opportunity</Text>
+                </Answer>
+                <Answer>
+                  <Text>practice their religion</Text>
+                </Answer>
+                <Answer>
+                  <Text>escape persecution</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>Who lived in America before the Europeans arrived?</Text>
+              <Answers>
+                <Answer>
+                  <Text>American Indians</Text>
+                </Answer>
+                <Answer>
+                  <Text>Native Americans</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>What group of people was taken to America and sold as slaves?</Text>
+              <Answers>
+                <Answer>
+                  <Text>Africans</Text>
+                </Answer>
+                <Answer>
+                  <Text>people from Africa</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>Why did the colonists fight the British?</Text>
+              <Answers>
+                <Answer>
+                  <Text>because of high taxes (taxation without representation)</Text>
+                </Answer>
+                <Answer>
+                  <Text>because the British army stayed in their houses (boarding, quartering)</Text>
+                </Answer>
+                <Answer>
+                  <Text>because they didn’t have self-government</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>Who wrote the Declaration of Independence?</Text>
+              <Answers>
+                <Answer>
+                  <Text>(Thomas) Jefferson</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>When was the Declaration of Independence adopted?</Text>
+              <Answers>
+                <Answer>
+                  <Text>July 4, 1776</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>There were 13 original states. Name three.</Text>
+              <Answers>
+                <Answer>
+                  <Text>New Hampshire</Text>
+                </Answer>
+                <Answer>
+                  <Text>Massachusetts </Text>
+                </Answer>
+                <Answer>
+                  <Text>Rhode Island </Text>
+                </Answer>
+                <Answer>
+                  <Text>Connecticut</Text>
+                </Answer>
+                <Answer>
+                  <Text>New York</Text>
+                </Answer>
+                <Answer>
+                  <Text>New Jersey </Text>
+                </Answer>
+                <Answer>
+                  <Text>Pennsylvania</Text>
+                </Answer>
+                <Answer>
+                  <Text>Delaware</Text>
+                </Answer>
+                <Answer>
+                  <Text>Maryland </Text>
+                </Answer>
+                <Answer>
+                  <Text>Virginia </Text>
+                </Answer>
+                <Answer>
+                  <Text>North Carolina </Text>
+                </Answer>
+                <Answer>
+                  <Text>South Carolina</Text>
+                </Answer>
+                <Answer>
+                  <Text>Georgia</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>What happened at the Constitutional Convention?</Text>
+              <Answers>
+                <Answer>
+                  <Text>The Constitution was written.</Text>
+                </Answer>
+                <Answer>
+                  <Text>The Founding Fathers wrote the Constitution.</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>When was the Constitution written?</Text>
+              <Answers>
+                <Answer>
+                  <Text>1787</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>The Federalist Papers supported the passage of the U.S. Constitution. Name one of the writers.</Text>
+              <Answers>
+                <Answer>
+                  <Text>(James) Madison</Text>
+                </Answer>
+                <Answer>
+                  <Text>(Alexander) Hamilton</Text>
+                </Answer>
+                <Answer>
+                  <Text>(John) Jay</Text>
+                </Answer>
+                <Answer>
+                  <Text>Publius</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>What is one thing Benjamin Franklin is famous for?</Text>
+              <Answers>
+                <Answer>
+                  <Text>U.S. diplomat</Text>
+                </Answer>
+                <Answer>
+                  <Text>oldest member of the Constitutional Convention</Text>
+                </Answer>
+                <Answer>
+                  <Text>first Postmaster General of the United States</Text>
+                </Answer>
+                <Answer>
+                  <Text>writer of “Poor Richard’s Almanac”</Text>
+                </Answer>
+                <Answer>
+                  <Text>started the first free libraries</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>Who is the “Father of Our Country”?</Text>
+              <Answers>
+                <Answer>
+                  <Text>(George) Washington</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>Who was the first President?</Text>
+              <Answers>
+                <Answer>
+                  <Text>(George) Washington</Text>
+                </Answer>
+              </Answers>
+            </Question>
+          </Questions>
+        </Section>
+        <Section>
+          <Text>1800s</Text>
+          <Questions>
+            <Question>
+              <Text>What territory did the United States buy from France in 1803?</Text>
+              <Answers>
+                <Answer>
+                  <Text>the Louisiana Territory</Text>
+                </Answer>
+                <Answer>
+                  <Text>Louisiana</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>Name one war fought by the United States in the 1800s.</Text>
+              <Answers>
+                <Answer>
+                  <Text>War of 1812</Text>
+                </Answer>
+                <Answer>
+                  <Text>Mexican-American War</Text>
+                </Answer>
+                <Answer>
+                  <Text>Civil War</Text>
+                </Answer>
+                <Answer>
+                  <Text>Spanish-American War</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>Name the U.S. war between the North and the South.</Text>
+              <Answers>
+                <Answer>
+                  <Text>the Civil War</Text>
+                </Answer>
+                <Answer>
+                  <Text>the War between the States</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>Name one problem that led to the Civil War</Text>
+              <Answers>
+                <Answer>
+                  <Text>slavery</Text>
+                </Answer>
+                <Answer>
+                  <Text>economic reasons</Text>
+                </Answer>
+                <Answer>
+                  <Text>states’ rights</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>What was one important thing that Abraham Lincoln did?</Text>
+              <Answers>
+                <Answer>
+                  <Text>freed the slaves (Emancipation Proclamation)</Text>
+                </Answer>
+                <Answer>
+                  <Text>saved (or preserved) the Union</Text>
+                </Answer>
+                <Answer>
+                  <Text>led the United States during the Civil War</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>What did the Emancipation Proclamation do?</Text>
+              <Answers>
+                <Answer>
+                  <Text>freed the slaves</Text>
+                </Answer>
+                <Answer>
+                  <Text>freed slaves in the Confederacy</Text>
+                </Answer>
+                <Answer>
+                  <Text>freed slaves in the Confederate states</Text>
+                </Answer>
+                <Answer>
+                  <Text>freed slaves in most Southern states</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>What did Susan B. Anthony do?</Text>
+              <Answers>
+                <Answer>
+                  <Text>fought for women’s rights</Text>
+                </Answer>
+                <Answer>
+                  <Text>fought for civil rights</Text>
+                </Answer>
+              </Answers>
+            </Question>
+          </Questions>
+        </Section>
+        <Section>
+          <Text>Recent American History and Other Important Historical Information</Text>
+          <Questions>
+            <Question>
+              <Text>Name one war fought by the United States in the 1900s.</Text>
+              <Answers>
+                <Answer>
+                  <Text>World War I</Text>
+                </Answer>
+                <Answer>
+                  <Text>World War II</Text>
+                </Answer>
+                <Answer>
+                  <Text>Korean War</Text>
+                </Answer>
+                <Answer>
+                  <Text>Vietnam War</Text>
+                </Answer>
+                <Answer>
+                  <Text>(Persian) Gulf War</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>Who was President during World War I?</Text>
+              <Answers>
+                <Answer>
+                  <Text>(Woodrow) Wilson</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>Who was President during the Great Depression and World War II?</Text>
+              <Answers>
+                <Answer>
+                  <Text>(Franklin) Roosevelt</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>Who did the United States fight in World War II?</Text>
+              <Answers>
+                <Answer>
+                  <Text>Japan, Germany, and Italy</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>Before he was President, Eisenhower was a general. What war was he in?</Text>
+              <Answers>
+                <Answer>
+                  <Text>World War II</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>During the Cold War, what was the main concern of the United States?</Text>
+              <Answers>
+                <Answer>
+                  <Text>Communism</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>What movement tried to end racial discrimination?</Text>
+              <Answers>
+                <Answer>
+                  <Text>civil rights (movement)</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>What did Martin Luther King, Jr. do?</Text>
+              <Answers>
+                <Answer>
+                  <Text>fought for civil rights</Text>
+                </Answer>
+                <Answer>
+                  <Text>worked for equality for all Americans</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>What major event happened on September 11, 2001, in the United States?</Text>
+              <Answers>
+                <Answer>
+                  <Text>Terrorists attacked the United States.</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>Name one American Indian tribe in the United States.</Text>
+              <Answers>
+                <Answer>
+                  <Text>Cherokee </Text>
+                </Answer>
+                <Answer>
+                  <Text>Navajo</Text>
+                </Answer>
+                <Answer>
+                  <Text>Sioux</Text>
+                </Answer>
+                <Answer>
+                  <Text>Chippewa</Text>
+                </Answer>
+                <Answer>
+                  <Text>Choctaw</Text>
+                </Answer>
+                <Answer>
+                  <Text>Pueblo</Text>
+                </Answer>
+                <Answer>
+                  <Text>Apache</Text>
+                </Answer>
+                <Answer>
+                  <Text>Iroquois</Text>
+                </Answer>
+                <Answer>
+                  <Text>Creek</Text>
+                </Answer>
+                <Answer>
+                  <Text>Blackfeet</Text>
+                </Answer>
+                <Answer>
+                  <Text>Seminole</Text>
+                </Answer>
+                <Answer>
+                  <Text>Cheyenne</Text>
+                </Answer>
+                <Answer>
+                  <Text>Arawak</Text>
+                </Answer>
+                <Answer>
+                  <Text>Shawnee</Text>
+                </Answer>
+                <Answer>
+                  <Text>Mohegan</Text>
+                </Answer>
+                <Answer>
+                  <Text>Huron</Text>
+                </Answer>
+                <Answer>
+                  <Text>Oneida</Text>
+                </Answer>
+                <Answer>
+                  <Text>Lakota</Text>
+                </Answer>
+                <Answer>
+                  <Text>Crow</Text>
+                </Answer>
+                <Answer>
+                  <Text>Teton</Text>
+                </Answer>
+                <Answer>
+                  <Text>Hopi</Text>
+                </Answer>
+                <Answer>
+                  <Text>Inuit</Text>
+                </Answer>
+              </Answers>
+            </Question>
+          </Questions>
+        </Section>
+      </Sections>
+    </Category>
+    <Category>
+      <Text>INTEGRATED CIVICS</Text>
+      <Sections>
+        <Section>
+          <Text>Geography</Text>
+          <Questions>
+            <Question>
+              <Text>Name one of the two longest rivers in the United States.</Text>
+              <Answers>
+                <Answer>
+                  <Text>Missouri (River)</Text>
+                </Answer>
+                <Answer>
+                  <Text>Mississippi (River)</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>What ocean is on the West Coast of the United States?</Text>
+              <Answers>
+                <Answer>
+                  <Text>Pacific (Ocean)</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>What ocean is on the East Coast of the United States?</Text>
+              <Answers>
+                <Answer>
+                  <Text>Atlantic (Ocean)</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>Name one U.S. territory.</Text>
+              <Answers>
+                <Answer>
+                  <Text>Puerto Rico</Text>
+                </Answer>
+                <Answer>
+                  <Text>U.S. Virgin Islands</Text>
+                </Answer>
+                <Answer>
+                  <Text>American Samoa</Text>
+                </Answer>
+                <Answer>
+                  <Text>Northern Mariana Islands</Text>
+                </Answer>
+                <Answer>
+                  <Text>Guam</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>Name one state that borders Canada.</Text>
+              <Answers>
+                <Answer>
+                  <Text>Maine</Text>
+                </Answer>
+                <Answer>
+                  <Text>New Hampshire </Text>
+                </Answer>
+                <Answer>
+                  <Text>Vermont</Text>
+                </Answer>
+                <Answer>
+                  <Text>New York</Text>
+                </Answer>
+                <Answer>
+                  <Text>Pennsylvania </Text>
+                </Answer>
+                <Answer>
+                  <Text>Ohio</Text>
+                </Answer>
+                <Answer>
+                  <Text>Michigan</Text>
+                </Answer>
+                <Answer>
+                  <Text>Minnesota</Text>
+                </Answer>
+                <Answer>
+                  <Text>North Dakota</Text>
+                </Answer>
+                <Answer>
+                  <Text>Montana </Text>
+                </Answer>
+                <Answer>
+                  <Text>Idaho </Text>
+                </Answer>
+                <Answer>
+                  <Text>Washington</Text>
+                </Answer>
+                <Answer>
+                  <Text>Alaska</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>Name one state that borders Mexico.</Text>
+              <Answers>
+                <Answer>
+                  <Text>California</Text>
+                </Answer>
+                <Answer>
+                  <Text>Arizona</Text>
+                </Answer>
+                <Answer>
+                  <Text>New Mexico</Text>
+                </Answer>
+                <Answer>
+                  <Text>Texas</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>What is the capital of the United States?</Text>
+              <Answers>
+                <Answer>
+                  <Text>Washington, D.C.</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>Where is the Statue of Liberty?</Text>
+              <Answers>
+                <Answer>
+                  <Text>New York (Harbor)</Text>
+                </Answer>
+                <Answer>
+                  <Text>Liberty Island</Text>
+                </Answer>
+              </Answers>
+            </Question>
+          </Questions>
+        </Section>
+        <Section>
+          <Text>Symbols</Text>
+          <Questions>
+            <Question>
+              <Text>Why does the flag have 13 stripes?</Text>
+              <Answers>
+                <Answer>
+                  <Text>because there were 13 original colonies</Text>
+                </Answer>
+                <Answer>
+                  <Text>because the stripes represent the original colonies</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>Why does the flag have 50 stars?</Text>
+              <Answers>
+                <Answer>
+                  <Text>because there is one star for each state</Text>
+                </Answer>
+                <Answer>
+                  <Text>because each star represents a state</Text>
+                </Answer>
+                <Answer>
+                  <Text>because there are 50 states</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>What is the name of the national anthem?</Text>
+              <Answers>
+                <Answer>
+                  <Text>The Star-Spangled Banner</Text>
+                </Answer>
+              </Answers>
+            </Question>
+          </Questions>
+        </Section>
+        <Section>
+          <Text>Holidays</Text>
+          <Questions>
+            <Question>
+              <Text>When do we celebrate Independence Day?</Text>
+              <Answers>
+                <Answer>
+                  <Text>July 4</Text>
+                </Answer>
+              </Answers>
+            </Question>
+            <Question>
+              <Text>Name two national U.S. holidays.</Text>
+              <Answers>
+                <Answer>
+                  <Text>New Year’s Day</Text>
+                </Answer>
+                <Answer>
+                  <Text>Martin Luther King, Jr. Day</Text>
+                </Answer>
+                <Answer>
+                  <Text>Presidents’ Day</Text>
+                </Answer>
+                <Answer>
+                  <Text>Memorial Day</Text>
+                </Answer>
+                <Answer>
+                  <Text>Independence Day</Text>
+                </Answer>
+                <Answer>
+                  <Text>Labor Day</Text>
+                </Answer>
+                <Answer>
+                  <Text>Columbus Day</Text>
+                </Answer>
+                <Answer>
+                  <Text>Veterans Day</Text>
+                </Answer>
+                <Answer>
+                  <Text>Thanksgiving </Text>
+                </Answer>
+                <Answer>
+                  <Text>Christmas</Text>
+                </Answer>
+              </Answers>
+            </Question>
+          </Questions>
+        </Section>
+      </Sections>
+    </Category>
+  </Categories>
+</TestData>
